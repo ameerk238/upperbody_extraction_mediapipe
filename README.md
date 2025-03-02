@@ -33,12 +33,17 @@ Original videos:
 - [Video 1: Original Source](https://www.youtube.com/watch?v=ayQeYjSVd3Y&ab_channel=99U)
 - [Video 2: Original Source](https://www.youtube.com/watch?v=R75AfAjsTiQ&ab_channel=99U)
 
+output video samples:
+/upperbody_exraction_mediapipe/example_data/video1.mp4
+/upperbody_exraction_mediapipe/example_data/video2.mp4
+
 ### Video Demo
 
 Since GitHub doesn't directly support playing videos in README files, you can check out these animated GIFs showing the processing in action:
 
-![Video 1 GIF](/upperbody_exraction_mediapipe/GIFs/video1.gif)
-![Video 2 GIF](/upperbody_exraction_mediapipe/GIFs/video2gif)
+![Video 1 GIF](GIFs/video1.gif)
+![Video 2 GIF](GIFs/video2.gif)
+
 
 **Note:** These example GIFs and videos are just short clips demonstrating the processing technique, not the complete processed output of the entire YouTube videos. They're meant to illustrate how the tool works rather than provide the full dataset.
 
